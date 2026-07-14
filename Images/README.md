@@ -20,4 +20,4 @@
 
 ## Blender
 
-![Weapon Pickup](Images/Blender.png)
+![Blender](Images/Blender.png)
