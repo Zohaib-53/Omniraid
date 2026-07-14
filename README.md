@@ -4,8 +4,6 @@
 
 ### A First-Person Shooter Prototype developed in Unity
 
-<img src="Images/logo.png" width="250">
-
 <br>
 
 [![Unity](https://img.shields.io/badge/Unity-6000.3.15f1-black?style=for-the-badge&logo=unity)](https://unity.com/)
