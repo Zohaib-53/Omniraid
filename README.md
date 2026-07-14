@@ -19,3 +19,15 @@ A First-Person Shooter prototype developed in Unity.
 ### Blender Environment
 
 ![Blender](Images/Blender.png)
+
+### Inventory(Only UI)
+
+![Inventory](Images/Inventory.png)
+
+### Loadout(only UI)
+
+![Loadout](Images/Loadout.png)
+
+### Map Selection Interface
+
+![Map Selection](Images/Map_selection_menu.png)
