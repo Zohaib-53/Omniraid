@@ -36,4 +36,4 @@ A First-Person Shooter prototype developed in Unity.
 
 Watch the gameplay demonstration on YouTube:
 
-[▶️ Watch OmniRaid Gameplay]((https://youtu.be/WZ_zXlLDHK4))
+[▶️ Watch OmniRaid Gameplay](https://youtu.be/WZ_zXlLDHK4)
