@@ -31,3 +31,9 @@ A First-Person Shooter prototype developed in Unity.
 ### Map Selection Interface
 
 ![Map Selection](Images/Map_selection_menu.png)
+
+## 🎥 Gameplay Video
+
+Watch the gameplay demonstration on YouTube:
+
+[▶️ Watch OmniRaid Gameplay]((https://youtu.be/WZ_zXlLDHK4))
